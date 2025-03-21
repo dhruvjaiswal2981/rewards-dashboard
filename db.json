@@ -1,0 +1,23 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "points": 150 },
+      { "id": 2, "name": "Bob", "points": 200 },
+      { "id": 3, "name": "Charlie", "points": 80 }
+    ],
+    "rewards": [
+      { "id": 1, "name": "Amazon Gift Card", "points": 100 },
+      { "id": 2, "name": "Starbucks Voucher", "points": 50 },
+      { "id": 3, "name": "Spotify Premium", "points": 150 },
+      { "id": 4, "name": "Netflix Subscription", "points": 200 }
+    ],
+    "activities": [
+      { "id": 1, "userId": 1, "type": "completed_survey", "points": 50, "timestamp": "2024-03-22T10:30:00Z" },
+      { "id": 2, "userId": 1, "type": "referred_friend", "points": 100, "timestamp": "2024-03-21T14:15:00Z" },
+      { "id": 3, "userId": 1, "type": "daily_login", "points": 10, "timestamp": "2024-03-20T08:00:00Z" },
+      { "id": 4, "userId": 2, "type": "completed_survey", "points": 50, "timestamp": "2024-03-22T11:00:00Z" },
+      { "id": 5, "userId": 2, "type": "referred_friend", "points": 100, "timestamp": "2024-03-20T16:30:00Z" },
+      { "id": 6, "userId": 3, "type": "daily_login", "points": 10, "timestamp": "2024-03-22T09:00:00Z" },
+      { "id": 7, "userId": 3, "type": "purchased_item", "points": -20, "timestamp": "2024-03-21T13:45:00Z" }
+    ]
+  }
+  
