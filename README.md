@@ -94,7 +94,7 @@ npm start
 - 🔹 Interactive tutorials for new users
 
 ## 🔗 Live Demo & Submission
-- 📢 Live Demo: 
+- 📢 Live Demo: https://rewards-dash.netlify.app/
 - 📢 GitHub Repo: https://github.com/dhruvjaiswal2981/rewards-dashboard.git
 - 👨‍💻 Developed by: Dhruv Jaiswal
 - 🚀 Happy Coding! 😊
