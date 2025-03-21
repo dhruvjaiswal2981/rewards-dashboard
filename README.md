@@ -87,7 +87,7 @@ npm start
     - Operations for rewards & activities
 
 
-## 📌 Future Enhancements (Optional)
+## 📌 Future Enhancements
 - 🔹 Real-time notifications for point changes
 - 🔹 Points expiration system
 - 🔹 Social sharing of achievements
@@ -96,5 +96,6 @@ npm start
 ## 🔗 Live Demo & Submission
 - 📢 Live Demo: https://rewards-dash.netlify.app/
 - 📢 GitHub Repo: https://github.com/dhruvjaiswal2981/rewards-dashboard.git
+- Demo Video Link : https://drive.google.com/file/d/1M85gXvDIQFlPcHCFDbSmV-xjLmdiwiW0/view?usp=sharing
 - 👨‍💻 Developed by: Dhruv Jaiswal
 - 🚀 Happy Coding! 😊
